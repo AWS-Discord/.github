@@ -1,7 +1,7 @@
 # Welcome to the AWS Discord! 👋
 ## A community-led server for AWS users and enthusiasts 
 
-![Discord](https://img.shields.io/discord/423842546947457024?color=Discord&label=Discord&logo=Discord)
+[![Discord](https://img.shields.io/discord/423842546947457024?color=Discord&label=Discord&logo=Discord)](https://discord.gg/aws)
 
 ### ❓ What is the AWS Discord?
 
